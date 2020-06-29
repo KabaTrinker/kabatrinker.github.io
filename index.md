@@ -10,3 +10,6 @@ Er hat schon eine Reihe spannender Fälle in den jeweiligen Büchern erfolgreich
 * gut gekleidet
 * aufmerksam
 * verwandlungsfähig
+
+
+> It's a very bad habit, but one I find hard to break.
